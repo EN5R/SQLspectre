@@ -1,6 +1,6 @@
 # SQLspectre
 
-SQLSpectre is a powerful tool designed to scan for SQL injection vulnerabilities. It sends payloads to the target URL and checks if the responses contain SQL errors.
+SQLspectre is a powerful tool designed to scan for SQL injection vulnerabilities. It sends payloads to the target URL and checks if the responses contain SQL errors.
 
 
 ## Features
