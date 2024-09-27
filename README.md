@@ -75,6 +75,6 @@ This project aims to enhance the security assessment process, providing develope
 
 ## License
 
-This project is licensed under the [MIT License.](https://raw.githubusercontent.com/EN5R/SubCortex/main/LICENSE)
+This project is licensed under the [MIT License.](https://raw.githubusercontent.com/EN5R/SQLspectre/refs/heads/main/LICENSE)
 
 Feel free to modify or add any information as needed! If there's anything more you'd like to include, just let me know!
