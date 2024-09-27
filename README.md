@@ -18,7 +18,7 @@ SQLSpectre is a powerful tool designed to scan for SQL injection vulnerabilities
 
 
 ## Videos
-[https://github.com/EN5R/SubCortex/blob/main/src/SubCortex.mp4
+[https://github.com/EN5R/SQLspectre/blob/main/src/SQLspectre.mp4
 ](https://github-production-user-asset-6210df.s3.amazonaws.com/104204586/371546228-28189f01-459f-4a8e-a896-a1197f0ef68e.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240927%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240927T131619Z&X-Amz-Expires=300&X-Amz-Signature=d87b76de1fe2ea9570382ed3783cc37c5d19bcd76c2509ebf952e3728139d7b1&X-Amz-SignedHeaders=host)
 
 
@@ -33,7 +33,7 @@ You can view the usage instructions with the following command:
 
 ## Installation
 
-SubCortex can be easily installed along with its required libraries as follows:
+SQLspectre can be easily installed along with its required libraries as follows:
 
 ```bash
   pip3.12 install -r requirements.txt
@@ -41,7 +41,7 @@ SubCortex can be easily installed along with its required libraries as follows:
     
 ## Running
 
-You can run SubCortex with the following command:
+You can run SQLspectre with the following command:
 
 ```bash
   python3.12 sqlspectre.py
